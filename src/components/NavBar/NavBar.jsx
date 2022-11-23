@@ -5,7 +5,6 @@ import NavDropdown from 'react-bootstrap/NavDropdown';
 import CartWidget from '../CartWidget';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-
 const NavBar = () => {
   return (
     <Navbar bg="light" expand="lg">

@@ -1,9 +1,9 @@
 
 const ItemListContainer=({greeting})=>{
     return(
-        <div>
+        <section class="section1_bienvenidos">
         <h2>{greeting}</h2>
-        </div>
+        </section>
     );
 
 }
